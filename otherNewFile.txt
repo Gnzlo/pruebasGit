@@ -1,1 +1,2 @@
 this is a second test. 
+this second line if a modification... now this is an amend modification. 
